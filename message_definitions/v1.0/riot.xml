@@ -2,6 +2,7 @@
 <mavlink>
 
     <include>standard.xml</include>
+    <include>common.xml</include>
     <!-- <version>9</version> -->
     <dialect>8</dialect>
 
